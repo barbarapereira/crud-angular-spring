@@ -22,4 +22,4 @@ A aplicação serve como um exemplo de como construir um sistema completo, do ba
 * **Back-end:**
     * [Spring Boot](https://spring.io/projects/spring-boot)
     * [Java](https://www.java.com/)
-    * [Maven](https://maven.apache.org/) (ou Gradle, depend
+    * [Maven](https://maven.apache.org/) (ou Gradle, depend)

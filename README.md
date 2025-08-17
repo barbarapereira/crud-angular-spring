@@ -1,3 +1,4 @@
+# crud-angular-spring
 # CRUD Full-Stack com Angular e Spring Boot
 
 Este projeto é uma aplicação de demonstração que implementa um sistema **CRUD** (Create, Read, Update, Delete) para gerenciar dados. Ele foi desenvolvido como uma aplicação prática dos conhecimentos adquiridos no curso da Loiane Groner, unindo o **Front-end (Angular)** com um **Back-end (Spring Boot)**.
@@ -22,4 +23,11 @@ A aplicação serve como um exemplo de como construir um sistema completo, do ba
 * **Back-end:**
     * [Spring Boot](https://spring.io/projects/spring-boot)
     * [Java](https://www.java.com/)
-    * [Maven](https://maven.apache.org/) (ou Gradle, depend)
+    * [Maven](https://maven.apache.org/) (ou Gradle, dependendo da configuração)
+* **Banco de Dados:**
+    * [H2 Database](https://www.h2database.com/html/main.html) (ou MySQL/PostgreSQL, dependendo da configuração)
+
+---
+
+### Como Rodar o Projeto
+
